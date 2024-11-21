@@ -46,13 +46,13 @@ section {
 }
 
 .profile-img {
-    border-radius: 50%; /* Makes the image circular */
-    width: 150px; /* Set a specific width for the image */
-    height: 150px; /* Set a specific height for the image */
-    object-fit: cover; /* Ensures the image fits nicely in the circle */
-    margin-bottom: 20px; /* Adds space below the image */
-    max-width: 150px; /* Ensures the image doesn't grow larger */
-    max-height: 150px; /* Ensures the image doesn't grow larger */
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    max-width: 150px;
+    max-height: 150px;
 }
 
 
