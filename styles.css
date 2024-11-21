@@ -45,6 +45,14 @@ section {
     padding: 50px;
 }
 
+.profile-img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
 #skills {
     background-color: #f8f8f8;
 }
