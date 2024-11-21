@@ -47,13 +47,13 @@ section {
 
 .profile-img {
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
+    width: 150px; /* Ensure it fits nicely on all screens */
+    height: 150px; 
+    max-width: 100%; /* Make sure it doesn't stretch beyond container */
+    object-fit: cover; /* Ensures the image fits well */
     margin-bottom: 20px;
-    max-width: 150px;
-    max-height: 150px;
 }
+
 
 
 #skills {
